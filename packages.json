@@ -1,0 +1,42 @@
+[
+  {
+    "package": "BayesMallows",
+    "url": "https://github.com/ocbe-uio/BayesMallows"
+  },
+  {
+    "package": "BayesSurvive",
+    "url": "https://github.com/ocbe-uio/BayesSurvive",
+  },
+  {
+    "package": "DIscBIO",
+    "url": "https://github.com/ocbe-uio/DIscBIO",
+  },
+  {
+    "package": "EnrichIntersect",
+    "url": "https://github.com/ocbe-uio/EnrichIntersect",
+  },
+  {
+    "package": "GPTCM",
+    "url": "https://github.com/ocbe-uio/GPTCM",
+  },
+  {
+    "package": "TruncExpFam",
+    "url": "https://github.com/ocbe-uio/TruncExpFam",
+  },
+  {
+    "package": "contingencytables",
+    "url": "https://github.com/ocbe-uio/contingencytables",
+  },
+  {
+    "package": "matlab2r",
+    "url": "https://github.com/ocbe-uio/matlab2r",
+  },
+  {
+    "package": "permChacko",
+    "url": "https://github.com/ocbe-uio/permChacko",
+  },
+  {
+    "package": "psbcSpeedUp",
+    "url": "https://github.com/ocbe-uio/psbcSpeedUp",
+  }
+]
