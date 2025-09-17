@@ -38,5 +38,9 @@
   {
     "package": "psbcSpeedUp",
     "url": "https://github.com/ocbe-uio/psbcSpeedUp",
+  },
+  {
+    "package": "MADMMplasso",
+    "url": "https://github.com/ocbe-uio/MADMMplasso",
   }
 ]
