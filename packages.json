@@ -42,5 +42,10 @@
   {
     "package": "MADMMplasso",
     "url": "https://github.com/ocbe-uio/MADMMplasso"
+  },
+  {
+    "package": "BayesSUR",
+    "url": "https://github.com/mbant/BayesSUR"
+    "subdir": "BayesSUR"
   }
 ]
