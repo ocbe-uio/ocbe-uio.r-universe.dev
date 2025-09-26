@@ -45,7 +45,7 @@
   },
   {
     "package": "BayesSUR",
-    "url": "https://github.com/mbant/BayesSUR"
+    "url": "https://github.com/mbant/BayesSUR",
     "subdir": "BayesSUR"
   }
 ]
