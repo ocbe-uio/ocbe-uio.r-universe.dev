@@ -47,5 +47,9 @@
     "package": "BayesSUR",
     "url": "https://github.com/mbant/BayesSUR",
     "subdir": "BayesSUR"
+  },
+  {
+    "package": "brmss",
+    "url": "https://github.com/ocbe-uio/brmss"
   }
 ]
